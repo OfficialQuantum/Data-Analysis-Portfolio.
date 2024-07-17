@@ -1,7 +1,7 @@
 # Data-Analysis-Portfolio.
-
+<p align='center'>
 ![Welcome](https://github.com/OfficialQuantum/assests/blob/main/assests/baby-yoda-welcome.gif)
-
+</p>
 
 ## About
 Hello, I'm Abdulkabir! I'm currently expanding my skills in data analysis and data science, with a keen interest in leveraging data to uncover meaningful insights.
