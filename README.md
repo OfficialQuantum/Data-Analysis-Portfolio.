@@ -39,6 +39,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** Data cleaning, Data analysis, Data Querying, Data Filtering, Data Aggregation.
 
 **Technology:** SQL
+---
 
 
 ### Nashville Housing Data Cleaning
