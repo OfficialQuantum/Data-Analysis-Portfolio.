@@ -1,7 +1,6 @@
 # Data-Analysis-Portfolio.
 <p align='center'>
   <img src='https://github.com/OfficialQuantum/assests/blob/main/assests/baby-yoda-welcome.gif', alt='Welcome'>
-<!-- ![Welcome](https://github.com/OfficialQuantum/assests/blob/main/assests/baby-yoda-welcome.gif) -->
 </p>
 
 ## About
@@ -24,7 +23,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Inside EPL 2021; A Data Analysis Perspective](#inside-epl-2021;-a-data-analysis-perspective)
     - [AFCON 2023 in Numbers: A Statistical Review of the Group Stage Matches](afcon-2023-in-numbers:-a-statistical-review-of-the-group-stage-matches)
   - Excel / Google Sheets
-    -   
+    - [Pathfinder Book Sales](pathfinder-book-sales)
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/abdulkabir.abdulamid/vizzes)
   - Power BI
   
@@ -84,7 +83,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** This dataset captures a comprehensive range of player statistics from the English Premier League 20/21 season, including performance metrics, disciplinary records, and playing time. The analysis aims to uncover performance trends and key insights, providing a detailed overview of the season's standout players and overall league dynamics.
 
 
-**Skills:** DML(Data Manipulation Language), DDL (Data Definition Language), Statistical Analysis, Competitive Landscape Understanding, Performance Metrics Analysis, Exploratory Data Analysis (EDA), Data Visualization 
+**Skills:** Data Manipulation, Data Definition, Statistical Analysis, Competitive Landscape Understanding, Performance Metrics Analysis, Exploratory Data Analysis (EDA), Data Visualization 
 
 **Technology:** Python, Pandas, Matplotlib
 
@@ -103,6 +102,16 @@ In this section I will list data analytics projects briefly describing the techn
 
 ---
 
+### Pathfinder Book Sales
+**Viz/Dataset:** [Pathfinder Book Sales](https://github.com/OfficialQuantum/Portfolio-Projects/blob/main/Pathfinder%20Book%20Sales%20Dashboard.xlsx)
+
+**Goal:** The goal of this analysis is to provide a detailed examination of the performance trends of Pathfinder, a company specialized in Book Sales.
+
+**Description:** This project involves a comprehensive analysis of a book sales dataset comprising Order ID, Date, Customer ID, Customer Name, Sales Person, Region, Item, Price, Quantity, and Revenue columns. The analysis aims to provide a clear understanding of sales dynamics by examining transaction details, customer behavior, and regional sales variations. The visualization created from this analysis offers valuable insights that can drive strategic decisions, enhance sales performance, and inform targeted marketing strategies.
+
+**Skills:** Data Cleaning, Pivot table, Sorting and Filtering, Data Visualization
+
+---
 
 ## Certificates
 - [Google Data Analytics Professional Certificate]() (Sep 2022) (Coursera - Google)
