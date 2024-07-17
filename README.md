@@ -1,6 +1,6 @@
 # Data-Analysis-Portfolio.
 
-[![MasterHead](https://tenor.com/view/baby-yoda-welcome-gif-22416975)]
+![MasterHead](https://tenor.com/view/baby-yoda-welcome-gif-22416975)
 
 
 ## About
