@@ -1,4 +1,8 @@
 # Data-Analysis-Portfolio.
+
+![Online Banner](https://pin.it/72vFs7WYa)
+
+
 ## About
 Hello, I'm Abdulkabir! I'm currently expanding my skills in data analysis and data science, with a keen interest in leveraging data to uncover meaningful insights.
 
@@ -19,7 +23,8 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Inside EPL 2021; A Data Analysis Perspective](#inside-epl-2021;-a-data-analysis-perspective)
     - [AFCON 2023 in Numbers: A Statistical Review of the Group Stage Matches](afcon-2023-in-numbers:-a-statistical-review-of-the-group-stage-matches)
   - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
+    -   
+  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/abdulkabir.abdulamid/vizzes)
   - Power BI
   
   
@@ -96,6 +101,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, Pandas
 
 ---
+
 
 ## Certificates
 - [Google Data Analytics Professional Certificate]() (Sep 2022) (Coursera - Google)
