@@ -21,11 +21,11 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Amazon Bestseller Project](#amazon-bestseller-project)
   - Python
     - [Inside EPL 2021; A Data Analysis Perspective](#inside-epl-2021;-a-data-analysis-perspective)
-    - [AFCON 2023 in Numbers: A Statistical Review of the Group Stage Matches](afcon-2023-in-numbers:-a-statistical-review-of-the-group-stage-matches)
+    - [AFCON 2023 in Numbers: A Statistical Review of the Group Stage Matches](#afcon-2023-in-numbers:-a-statistical-review-of-the-group-stage-matches)
   - Excel / Google Sheets
     - [Pathfinder Book Sales](pathfinder-book-sales)
   - Tableau
-    -[Visit Tableau](https://public.tableau.com/app/profile/abdulkabir.abdulamid/vizzes)
+    - [Visit Tableau](https://public.tableau.com/app/profile/abdulkabir.abdulamid/vizzes)
   - Power BI
   
   
