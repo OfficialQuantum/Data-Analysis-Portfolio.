@@ -13,17 +13,16 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](#portfolio-projects)
   - SQL
     - [Covid 19 Data Exploration](#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](https://github.com/OfficialQuantum/Portfolio-Projects/blob/main/Nashville%20Housing%20%20Data%20Cleaning.sql)
+    - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
+    - [Amazon Bestseller Project](#amazon-bestseller-project)
   - Python
-    - [Inside EPL 2021; A Data Analysis Perspective](https://github.com/OfficialQuantum/Portfolio-Projects/blob/main/Inside%20EPL%202021%20A%20Data%20Analysis%20Perspective.ipynb)
-    - [AFCON 2023 in Numbers: A Statistical Review of the Group Stage Matches](https://github.com/OfficialQuantum/Portfolio-Projects/blob/main/AFCON%202023%20in%20Numbers%20(Groupstage%20Matches).ipynb)
+    - [Inside EPL 2021; A Data Analysis Perspective](#inside-epl-2021;-a-data-analysis-perspective)
+    - [AFCON 2023 in Numbers: A Statistical Review of the Group Stage Matches](afcon-2023-in-numbers:-a-statistical-review-of-the-group-stage-matches)
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
   - Power BI
   
-
-
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
+  
 - [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 
@@ -37,7 +36,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
 
-**Skills:** data cleaning, data analysis,
+**Skills:** Data cleaning, Data analysis, Data Querying, Data Filtering, Data Aggregation.
 
 **Technology:** SQL
 
@@ -50,9 +49,22 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** The Nashville Housing dataset includes attributes such as property addresses, sale prices, dates of sale, property types, and owner details of houses that have been sold in Nashville between 2013 and 2019. The data cleaning process involves resolving missing values, correcting inaccuracies, and standardizing formats to ensure the dataset is reliable and ready for analysis.
 
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+**Skills:** Data cleaning, Data analysis, Hypothesis testing
 
 **Technology:** SQL
+
+
+### Amazon Bestseller Project
+
+**Goal:** To extract actionable business insights from Amazon's bestseller data, identifying key factors driving sales success and informing strategic decision-making in product development and marketing.
+
+**Code:** [Amazon Bestseller Project](https://github.com/OfficialQuantum/Portfolio-Projects/blob/main/Amazon%20Bestseller%20Project.sql)
+
+**Description:** The dataset comprises Amazon's top-selling books, encompassing genres, pricing data, customer reviews, author details, and sales performance metrics. Through rigorous analysis of genre preferences, pricing strategies, customer sentiment from reviews, and regional sales trends, this study aims to uncover patterns that businesses can leverage to optimize their product offerings, enhance customer engagement, and capitalize on global market opportunities.
+
+**Skills:** Data Transformation and Cleaning, Time-series analysis, Data definition, Data Querying, Data Filtering, Data Aggregation and Summarization.
+
+**Technology:** SQL Query
 
 
 
@@ -64,50 +76,23 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** This dataset captures a comprehensive range of player statistics from the English Premier League 20/21 season, including performance metrics, disciplinary records, and playing time. The analysis aims to uncover performance trends and key insights, providing a detailed overview of the season's standout players and overall league dynamics.
 
 
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+**Skills:** DML(Data Manipulation Language), DDL (Data Definition Language), Statistical Analysis, Competitive Landscape Understanding, Performance Metrics Analysis, Exploratory Data Analysis (EDA), Data Visualization 
 
-**Technology:** SQL Server
-
-
-### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
-
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
-
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-
-**Technology:** SQL Server
+**Technology:** Python, Pandas, Matplotlib
 
 
+### AFCON 2023 in Numbers: A Statistical Review of the Group Stage Matches
+**Code:** [AFCON 2023 in Numbers: A Statistical Review of the Group Stage Matches](https://github.com/OfficialQuantum/Portfolio-Projects/blob/main/AFCON%202023%20in%20Numbers%20(Groupstage%20Matches).ipynb)
 
-### Legendary Pokémon Analysis
+**Goal:** The goal of this analysis is to provide a detailed examination of the performance trends and key statistics from the group stage of the African Cup of Nations (AFCON) 2023.
 
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
+**Description:** This analysis uses Python to explore performance trends and key metrics from the AFCON 2023 group stage matches. It focuses on player contributions, goal-scoring patterns, and critical metrics like assists, cards, and clean sheets. The study provides insights into tournament competitiveness and sets the stage for understanding performance dynamics as AFCON progresses.
 
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
+**Skills:** Statistical Analysis, Competitive Landscape Understanding, Performance Metrics Analysis, Exploratory Data Analysis (EDA)
 
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
-
-**Skills:** data cleaning, data analysis, data visualization.
-
-**Technology:** Tidyverse 
+**Technology:** Python, Pandas
 
 
-
-
-
-## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
-
-The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
-2019 - 2022
-
-Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
