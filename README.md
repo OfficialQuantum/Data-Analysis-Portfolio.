@@ -24,7 +24,7 @@ This is a repository to showcase skills, share projects and track my progress in
   
   
 - [Certificates](#certificates)
-- [Contact](#contact)
+- [Contact](#contacts)
 
 - ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -104,5 +104,6 @@ In this section I will list data analytics projects briefly describing the techn
 ---
 
 ## Contacts
-- LinkedIn: [@codesbyquantum](www.linkedin.com/in/codesbyquantum)
+- LinkedIn: [Abdulkabir Abdulamid](www.linkedin.com/in/codesbyquantum)
+- Twitter:  [@codesbyquantum](https://t.co/95cniiu8KM)
 - Email: Kabiradebayo007@gmail.com
