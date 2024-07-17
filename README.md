@@ -23,8 +23,8 @@ This is a repository to showcase skills, share projects and track my progress in
   - Power BI
   
   
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Certificates](#certificates)
+- [Contact](#contact)
 
 - ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -54,6 +54,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** SQL
 
+---
 
 ### Amazon Bestseller Project
 
@@ -67,7 +68,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** SQL Query
 
-
+---
 
 ### Inside EPL 2021; A Data Analysis Perspective
 **Code:** [Inside EPL 2021; A Data Analysis Perspective](https://github.com/OfficialQuantum/Portfolio-Projects/blob/main/Inside%20EPL%202021%20A%20Data%20Analysis%20Perspective.ipynb)
@@ -81,6 +82,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Python, Pandas, Matplotlib
 
+---
 
 ### AFCON 2023 in Numbers: A Statistical Review of the Group Stage Matches
 **Code:** [AFCON 2023 in Numbers: A Statistical Review of the Group Stage Matches](https://github.com/OfficialQuantum/Portfolio-Projects/blob/main/AFCON%202023%20in%20Numbers%20(Groupstage%20Matches).ipynb)
@@ -93,14 +95,14 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Python, Pandas
 
-
+---
 
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+- [Google Data Analytics Professional Certificate]() (Sep 2022) (Coursera - Google)
+- [Python for Data Science, AI & Development](https://coursera.org/share/2e724477be8e3cc176cd57e60ec5dd98) (Feb 2023) (Coursera - IBM)
+
+---
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- LinkedIn: [@codesbyquantum](www.linkedin.com/in/codesbyquantum)
+- Email: Kabiradebayo007@gmail.com
