@@ -30,7 +30,6 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### COVID 19 Data Exploration
----
 **Code:** [Covid 19 Data Exploration](https://github.com/OfficialQuantum/Portfolio-Projects/blob/main/Covid%2019%20Data%20Exploration%20Project%20.sql)
 
 **Goal:** To analyze key metrics of COVID-19, such as infection and mortality rates for data-driven decision-making
@@ -41,6 +40,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** SQL
 
+---
 
 ### Nashville Housing Data Cleaning
 
