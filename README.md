@@ -1,6 +1,7 @@
 # Data-Analysis-Portfolio.
 <p align='center'>
-![Welcome](https://github.com/OfficialQuantum/assests/blob/main/assests/baby-yoda-welcome.gif)
+  <img src='https://github.com/OfficialQuantum/assests/blob/main/assests/baby-yoda-welcome.gif', alt='Welcome'>
+<!-- ![Welcome](https://github.com/OfficialQuantum/assests/blob/main/assests/baby-yoda-welcome.gif) -->
 </p>
 
 ## About
