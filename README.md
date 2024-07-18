@@ -37,7 +37,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Certificates](#certificates)
 - [Contact](#contacts)
 
-- ## Portfolio Projects
+## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### COVID 19 Data Exploration
