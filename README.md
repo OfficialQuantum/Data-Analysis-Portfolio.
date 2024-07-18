@@ -126,6 +126,6 @@ In this section I will list data analytics projects briefly describing the techn
 ---
 
 ## Contacts
-- LinkedIn:  [Abdulkabir Abdulamid](www.linkedin.com/in/codesbyquantum)
+- LinkedIn:  [Abdulkabir Abdulamid](https://linkedin.com/in/codesbyquantum)
 - Twitter:   [@codesbyquantum](https://t.co/95cniiu8KM)
 - Email:     Kabiradebayo007@gmail.com
