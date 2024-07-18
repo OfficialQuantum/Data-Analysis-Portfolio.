@@ -124,7 +124,6 @@ In this section I will list data analytics projects briefly describing the techn
 - [Python for Data Science, AI & Development](https://coursera.org/share/2e724477be8e3cc176cd57e60ec5dd98) (Jan, 2024) (Coursera - IBM)
 - [Data Analytics and Visualization Job Simulation](https://github.com/OfficialQuantum/Portfolio-Projects/blob/main/Certificate/Data%20Analytics%20and%20Visualization%20Job%20Simulation.pdf) (May, 2024) (Forage - Accenture)
 
----
 
 ## Contacts
 - LinkedIn:  [Abdulkabir Abdulamid](https://linkedin.com/in/codesbyquantum)
