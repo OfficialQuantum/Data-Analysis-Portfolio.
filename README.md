@@ -1,12 +1,12 @@
-# Portfolio.
+
 <p align='center'>
   <img src='https://github.com/OfficialQuantum/assests/blob/main/assests/baby-yoda-welcome.gif', alt='Welcome'>
 </p>
 
 ## About
 <p>
-<h2 align="center"> Hello, I'm Abdulkabir Abdulamid </h2>
-<h4 align="center"> Data Scientist & Analyst </h4>
+  <h2 align="center"> Hello, I'm Abdulkabir Abdulamid </h2>
+  <h4 align="center"> A Data Scientist & Analyst </h4>
 </p>
 
 I'm currently expanding my skills in data analysis and data science, with a keen interest in leveraging data to uncover meaningful insights.
