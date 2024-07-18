@@ -1,11 +1,13 @@
-# Data-Analysis-Portfolio.
+# Portfolio.
 <p align='center'>
   <img src='https://github.com/OfficialQuantum/assests/blob/main/assests/baby-yoda-welcome.gif', alt='Welcome'>
 </p>
 
 ## About
-<h1 align="center"> Hi, I'm Abdulkabir Abdulamid </h1>
-Hello, I'm Abdulkabir! I'm currently expanding my skills in data analysis and data science, with a keen interest in leveraging data to uncover meaningful insights.
+<h2 align="center"> Hello, I'm Abdulkabir Abdulamid </h2>
+<h4 align="center"> Data Scientist & Analyst </h4>
+
+I'm currently expanding my skills in data analysis and data science, with a keen interest in leveraging data to uncover meaningful insights.
 
 During my studies, I've developed a keen ability to work with complex data, identifying patterns and trends. I also have experience in data management and statistical analysis, which I believe will be valuable assets in a data-focused role.
 
