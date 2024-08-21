@@ -1,4 +1,9 @@
 ### COVID 19 Data Exploration
+
+<p align='center'>
+  <img src='https://github.com/OfficialQuantum/assests/blob/main/assests/COVID-19 DATA EXPLORATION.png', alt='Welcome'>
+</p>
+
 **Code:** [Covid 19 Data Exploration](https://github.com/OfficialQuantum/Portfolio-Projects/blob/main/Covid%2019%20Data%20Exploration%20Project%20.sql)
 
 **Goal:** To analyze key metrics of COVID-19, such as infection and mortality rates for data-driven decision-making
