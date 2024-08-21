@@ -1,4 +1,4 @@
-### COVID 19 Data Exploration
+# COVID 19 Data Exploration
 
 <p align='center'>
   <img src='https://github.com/OfficialQuantum/assests/blob/main/assests/COVID-19 DATA EXPLORATION.png', alt='Welcome'>
